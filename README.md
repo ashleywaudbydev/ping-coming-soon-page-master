@@ -32,7 +32,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+
+![01 02 2023_11 21 11_REC](https://user-images.githubusercontent.com/84845712/216029243-2b962dc0-89f1-46b1-b268-ee4ddef25477.png)
 
 
 
@@ -41,7 +42,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://your-solution-url.com)
-- Live Site URL:(https://your-live-site-url.com)
+- Live Site URL:(https://00awaudby.github.io/ping-coming-soon-page-master/)
 
 ## My process
 

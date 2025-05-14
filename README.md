@@ -42,7 +42,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://your-solution-url.com)
-- Live Site URL:(https://00awaudby.github.io/ping-coming-soon-page-master/)
+- Live Site URL:(https://ashleywaudbydev.github.io/ping-coming-soon-page-master/)
 
 ## My process
 
